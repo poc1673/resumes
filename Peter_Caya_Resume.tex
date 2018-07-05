@@ -32,46 +32,52 @@ $\bullet$ \hspace{1pt} E-mail: #2\\ \hspace{25 pt}  $\bullet$ \hspace{1pt} Phone
 \begin{resume}
 	
 %	Commands defining lines, section headings.
-\newcommand{\LINE}{\rule{.88\linewidth}{.75 pt}\\}
-\newcommand{\Line}{\rule{.87\linewidth}{.5 pt}\\}
+\newcommand{\LINE}{\rule{.91\linewidth}{.75 pt}\\}
+\newcommand{\Line}{\rule{.9\linewidth}{.5 pt}\\}
+\newcommand{\jobline}{\hphantom{f} \hspace{140 pt} \rule{.65 \linewidth}{.25 pt}}
+
+
 \newcommand{\secspace}{\vspace {.15 in}}
 \newcommand{\subsecspace}{\vspace{.05 in}}
 
+%
+%\newcommand{\relcourse}[4]{\begin{ncolumn}{2}   \vspace{-.1 pt} \textit{Rochester Institute of Technology, Rochester, NY} & \vspace{-.1 pt} \underline{Relevant Coursework:}  \\
+%M.S. in Applied and Computational Mathematics, 2015 &  #1  	\\
+%	& #2\\
+%  & #3   \\
+%  & #4   \\      \end{ncolumn}\vspace{-10 pt} }
 
-\newcommand{\relcourse}[4]{\begin{ncolumn}{2}   \vspace{-.1 pt} \textit{Rochester Institute of Technology, Rochester NY} & \vspace{-.1 pt} \underline{Relevant Coursework:}  \\
-M.S. in Applied and Computational Mathematics &  #1  	\\
- \textbf{GPA: \hspace{3 pt}  3.22/4.0} & #2\\
-  & #3   \\
-  & #4   \\      \end{ncolumn}\vspace{-25 pt} }
+
+\newcommand{\relcourse}[2]{\begin{ncolumn}{2}   \vspace{-.1 pt} \textit{#1} & \vspace{-.1 pt}  \\
+#2      \end{ncolumn}\vspace{-10 pt} }
 
 
-\definecolor{mygrey}{gray}{.8}
-\newcommand{\resheading}[1]{{\LINE \large \colorbox{mygrey}{\begin{minipage}{.87\linewidth}{\textbf{#1 \vphantom{p\^{E}}}}\end{minipage}}}}
+
+\definecolor{mygrey}{gray}{.9}
+\newcommand{\resheading}[1]{{\LINE \large \colorbox{mygrey}{\begin{minipage}{.9\linewidth}{\textbf{#1 \vphantom{p\^{E}}}}\end{minipage}}}}
 
 \vspace{15 pt}
 
 %\resheading{Objective:}\\\vspace{- 18 pt}
 %To contribute to data based research on social networks by combining tools from computational math and statistical learning to clean    
-\vspace{- 18 pt}
+\vspace{- 5 pt}
 
 \resheading{Education:}\\
-\relcourse{Financial Engineering}{Scientific Computing}{Numerical Linear Algebra}{Inverse Problems}
+\relcourse{Rochester Institute of Technology, Rochester, NY}{Master's Degree in Applied and Computational 
+Mathematics}
 
-\begin{ncolumn}{2}
- \textit{St.Bonaventure University, St.Bonaventure, NY} \\
-  B.B.A., Magna cum Laude in Finance, 2012  \\
-   \textbf{GPA:\hspace{3 pt} 3.61/4.0} &   \\
-   &     \\ 
-  \end{ncolumn} \\ 
+\relcourse{St. Bonaventure University, Allegany, NY}{Bachelor's in Business Administration in Finance, \textit{Magna cum Laude}}
+
+
 \resheading{Technical Skills}\\
 \vspace{-5 pt}\\
 \begin{minipage}{.5\textwidth} \normalsize{ \underline{ Technology:}    }
 		
-		\begin{minipage}{1.25\textwidth} 
+		\begin{minipage}{1\textwidth} 
 			\begin{itemize}
 			\item R - Data cleaning, database querying, and classification algorithms.
 			\item Excel - Proficiency with array formulas, index, and offset functions.
-			\item MATLAB - Numerical optimization and solvers for differential equations.
+			\item SQL Server - Wrote and modified queries to draw data from\\ company databases.
 		\end{itemize}
 		\end{minipage}
 \end{minipage}
@@ -103,12 +109,21 @@ M.S. in Applied and Computational Mathematics &  #1  	\\
 	\begin{minipage}{.75\textwidth}
 	#4
 	\end{minipage}
+\hphantom{f} \hspace{200 pt}\jobline
 \end{minipage}
 }
 
-\vspace{-10 pt}
 
-\jobdesc{Junior Business Analyst}{Forensic Economics}{January 2016 - Present}{
+\vspace{-8 pt}
+\jobdesc{Quantitative Risk Analyst}{BNY Mellon}{September 2017 - Present}{
+\begin{itemize}
+\item Employ knowledge of statistics and exploratory data analysis to test assumptions in mathematical \\ models and identify their weaknesses.
+\item Performed back-testing and benchmarking used in behavior model used to manage a  \$50 billion \\ mortgage portfolio.
+\item Validated regression models used in management of bank's operational deposits  by replicating \\ regression results, 
+\end{itemize} }{-35}\\
+
+
+\jobdesc{Junior Business Analyst}{Forensic Economics}{January 2016 - August 2017}{
 \begin{itemize}
 \item Initiate securities fraud investigations by collecting, cleaning, and validating financial data from\\ Bloomberg, Capital IQ, SEC EDGAR, and other sources.
 \item Assist expert witnesses in econometric analysis by using R to fit and compare statistical models \\for stock return behavior.
@@ -136,15 +151,15 @@ M.S. in Applied and Computational Mathematics &  #1  	\\
 %1111111111111111111111
 
 
-\vspace{0 pt}
-\jobdesc{Options Operations Analyst}{Citigroup}{October  2012 - August 2013}{   \begin{itemize}
-\item Guaranteed trade consistency by working in a team to investigate discrepancies in derivative\\ contracts.
-\item Facilitated trade volume oversight using Access, Excel, and Outlook to furnish reports.
-\item Expedited reporting tasks by designing spreadsheet tools with VBA to process transaction data.
-\end{itemize}
-}{-20}
-
-
+%\vspace{0 pt}
+%\jobdesc{Options Operations Analyst}{Citigroup}{October  2012 - August 2013}{   \begin{itemize}
+%\item Guaranteed trade consistency by working in a team to investigate discrepancies in derivative\\ contracts.
+%\item Facilitated trade volume oversight using Access, Excel, and Outlook to furnish reports.
+%\item Expedited reporting tasks by designing spreadsheet tools with VBA to process transaction data.
+%\end{itemize}
+%}{-20}
+%
+%
 
 
 
