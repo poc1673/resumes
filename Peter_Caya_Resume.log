@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.1)  5 JUL 2018 12:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.1)  6 JUL 2018 20:56
 entering extended mode
 **./Peter_Caya_Resume.tex
 (Peter_Caya_Resume.tex
@@ -373,84 +373,65 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 65.
+(Font)              <12> on input line 91.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 65.
+(Font)              <8> on input line 91.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 65.
+(Font)              <6> on input line 91.
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--68
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
-
- []
-
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 78.
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 78.
-
-Overfull \hbox (457.2007pt too wide) in paragraph at lines 72--96
+Overfull \hbox (457.2007pt too wide) in paragraph at lines 91--110
 []$ $[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--96
+Underfull \hbox (badness 10000) in paragraph at lines 91--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 141.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 141.
+
+Overfull \hbox (3.80005pt too wide) in paragraph at lines 141--164
+  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--164
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--123
-[]$[]$ $[]$ []
+Overfull \hbox (3.80005pt too wide) in paragraph at lines 141--164
+  $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
-[]$[]$ $[]$ []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 131--133
+Underfull \hbox (badness 10000) in paragraph at lines 141--164
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-[]$[]$ $[]$ []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--141
+Underfull \hbox (badness 10000) in paragraph at lines 181--183
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--149
-[]$[]$ $[]$ []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
+Underfull \hbox (badness 10000) in paragraph at lines 239--242
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
@@ -460,17 +441,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 167--169
 Here is how much of TeX's memory you used:
  10418 strings out of 492973
  192013 string characters out of 3135936
- 240263 words of memory out of 3000000
+ 239263 words of memory out of 3000000
  14288 multiletter control sequences out of 15000+200000
  542609 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,63p,234b,291s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,8n,63p,234b,275s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program
  Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Peter_Caya_Resume.pdf (1 page, 54681 bytes).
+Output written on Peter_Caya_Resume.pdf (1 page, 54698 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
